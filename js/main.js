@@ -8,6 +8,8 @@
  * MIT Licensed.
  */
 
+var Promise = require('promise-polyfill');
+
 var MM = (function() {
 
 	var modules = [];
