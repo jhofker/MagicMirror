@@ -65,7 +65,6 @@
     "iconv-lite": "latest",
     "mocha-logger": "^1.0.5",
     "moment": "latest",
-    "promise-polyfill": "^8.1.0",
     "request": "^2.83.0",
     "rrule-alt": "^2.2.7",
     "simple-git": "^1.85.0",
